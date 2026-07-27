@@ -51,6 +51,12 @@ passwordHint: "画🫓：没准哪天就公开了捏......"
 
 ## 三： 爷（空、荧） · Traveler(Aether/Lumine)
 
+> [!NOTE]
+>
+> **提瓦特大陆**
+>
+> **Teyvat**
+
 [grid]
 ![空哥立绘](About-My-XP.assets/%E7%A9%BA%E5%93%A5%E7%AB%8B%E7%BB%98.png)
 ![荧妹立绘](About-My-XP.assets/%E8%8D%A7%E5%A6%B9%E7%AB%8B%E7%BB%98.jpg)
