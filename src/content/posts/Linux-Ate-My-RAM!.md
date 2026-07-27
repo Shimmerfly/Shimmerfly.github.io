@@ -14,7 +14,7 @@ licenseName: Do the F**k YOU WANT!
 sourceLink: https://www.linuxatemyram.com/
 ---
 
-<div style="border:3px solid;display:table;margin:1em auto 2em;padding:2em;text-align:center"><h1 style="color:#F00000;font-size:3em;margin:0;padding:0">Don't Panic！<br>Your RAM is FINE!</h1></div>
+<div style="border:3px solid;display:table;margin:1em auto 2em;padding:2em;text-align:center"><h1 style="color:#F00000;font-size:3em;margin:0;padding:0">Don't Panic!<br>Your RAM is FINE!</h1></div>
 
 # 本土化翻译
 
