@@ -1,5 +1,5 @@
 ---
-title: 急！Linux 把我的内存吃光了！！在线等回复！！！
+title: Linux Ate My RAM!!!
 published: 2017-03-06
 updated: 2026-07-20
 pinned: true
