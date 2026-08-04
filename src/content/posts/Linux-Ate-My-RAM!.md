@@ -1,7 +1,7 @@
 ---
 title: Linux Ate My RAM!!!
 published: 2017-03-06
-updated: 2026-07-20
+updated: 2026-08-02
 pinned: true
 description: 如果某天你注意到你的 top/htop/btop 上显示内存的 Free 部分十分之少，不要着急，这是正常现象
 tags: [杂谈,Linux]
