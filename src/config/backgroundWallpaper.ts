@@ -47,8 +47,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			"assets/images/DesktopWallpaper/Main.png",
 		],
 		// 背景视频播放地址
-		// 支持单个视频路径（字符串）或多个视频循环（数组）
+		// 支持单个视频路径（字符串）或多个视频循环（数组，参考上面壁纸配置）
 		// 支持远程视频URL，本地视频请放在 public/assets/videos/ 目录下
+		// playerUrl: "/assets/videos/firefly.mp4",
 		playerUrl: [
 			"/assets/videos/【原神生日会】提瓦特民谣 - 001 - 【原神生日会】提瓦特民谣.mp4",
 			"/assets/videos/《原神》五周年主题曲《回家的路》 - 001 - 中-《回家的路》.mp4",
@@ -108,9 +109,8 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		navbar: {
 			// 导航栏透明模式："semi" 半透明，"full" 完全透明，"semifull" 动态透明
 			transparentMode: "semifull",
-			// 是否开启毛玻璃模糊效果，开启可能会影响页面性能，如果不开启则是半透明，请根据自己的喜好开启
-			enableBlur: true,
-			// 毛玻璃模糊度
+			// 毛玻璃模糊度，0 即关闭导航栏的毛玻璃
+			// 注意：导航栏子菜单与浮动面板始终保留毛玻璃，模糊度跟随此项但有最小值
 			blur: 5,
 		},
 		// 水波纹动画效果配置，开启会影响页面性能，请根据自己的喜好开启
