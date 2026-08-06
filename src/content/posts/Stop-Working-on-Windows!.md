@@ -58,7 +58,7 @@ sourceLink: https://zhuanlan.fxzhihu.com/p/2024527609388627701
 
 更糟糕的是，你的 Linux 队友写了个 CMake 脚本：
 
-```text
+```cmake
 set(OUTPUT_DIR "build/${CONFIG}/obj")
 ```
 
@@ -205,7 +205,7 @@ Windows 呢？Windows 的 “ANSI 代码页” 默认是 GBK（如果你在中�
 
 然后你让 Agent 执行一条稍微复杂一点的命令：
 
-```text
+```powershell
 powershell -Command "& { Get-ChildItem -Recurse | Where-Object { $_.Name -match 'test' } }"
 ```
 
@@ -213,7 +213,7 @@ powershell -Command "& { Get-ChildItem -Recurse | Where-Object { $_.Name -match 
 
 你让 Agent 生成一行 C++ 代码并通过 `cl.exe /D` 传入：
 
-```text
+```C++
 cl /D"MY_STRING=\"hello\\nworld\"" main.c
 ```
 
