@@ -52,9 +52,27 @@ export const profileConfig: ProfileConfig = {
 			showName: true,
 		},
 		{
+			name: "小破站",
+			icon: "fa7-brands:bilibili",
+			url: "https://space.bilibili.com/581938829",
+			showName: true,
+		},
+		{
+			name: "𝕏",
+			icon: "fa7-brands:x-twitter",
+			url: "http://x.com/Jack_Huang_2020",
+			showName: true,
+		},
+		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
 			url: "https://github.com/Jack-Huang-2020",
+			showName: true,
+		},
+		{
+			name: "Youtube",
+			icon: "fa7-brands:youtube",
+			url: "https://www.youtube.com/@Jack-Huang-2010",
 			showName: true,
 		},
 		{
