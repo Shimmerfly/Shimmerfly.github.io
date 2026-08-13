@@ -22,7 +22,7 @@ author: 𝚒𝚖𝚙𝚘𝚛𝚝 { 𝘑𝘢𝘤𝘬 𝘏𝘶𝘢𝘯𝘨 } 𝚏�
 
 # 🪨 **A Stone Badge & 不死图腾**
 
-![没错这个石墩子除了浪费你 5 MiB 流量外毫无作用 石墩子指向本博客的 [Github](https://github.com/Jack-Huang-2020/Blog) 仓库 项目🔗： [https://github.com/professor-lee/StoneBadge](https://github.com/professor-lee/StoneBadge)](https://stone.professorlee.work/api/stone/Jack-Huang-2020/Blog)
+![没错这个石墩子除了浪费你 5 MiB 流量外毫无作用 石墩子指向本博客的 [Github](https://github.com/Jack-Huang-2010/Blog) 仓库 项目🔗： [https://github.com/professor-lee/StoneBadge](https://github.com/professor-lee/StoneBadge)](https://stone.professorlee.work/api/stone/Jack-Huang-2010/Blog)
 
 ```txt
         🟫🟫🟫🟫🟫🟫

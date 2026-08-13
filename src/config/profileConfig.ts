@@ -60,7 +60,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/Jack-Huang-2020",
+			url: "https://github.com/Jack-Huang-2010",
 			showName: true,
 		},
 		{

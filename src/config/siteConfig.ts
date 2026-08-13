@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "爱你 妲妲",
 
 	// 站点 URL
-	site_url: "https://Jack-Huang-2020.github.io",
+	site_url: "https://jack-huang-2010.github.io",
 
 	// 站点描述
 	description:

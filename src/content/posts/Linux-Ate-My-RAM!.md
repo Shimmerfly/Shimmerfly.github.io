@@ -113,7 +113,7 @@ echo 3 | sudo tee /proc/sys/vm/drop_caches
 >
 > > [!TIP]
 > >
-> > 此博客也已[在 Github 开源](https://github.com/Jack-Huang-2020/jack-huang-2020.github.io)，欢迎提出建议或提交 PR
+> > 此博客也已[在 Github 开源](https://github.com/Jack-Huang-2010/jack-huang-2010.github.io)，欢迎提出建议或提交 PR
 >
 > > [!CAUTION]
 > >
