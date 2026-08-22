@@ -105,27 +105,66 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 首页横幅标题下方的链接图标（可选，支持 showName 显示文字）
 			// 图标支持 Iconify 格式：fa7-brands:github、fa7-solid:envelope、mdi:rss 等
 			links: [
-				{
-					name: "GitHub",
-					icon: "fa7-brands:github",
-					url: "https://github.com/Jack-Huang-2010",
-					showName: true,
-				},
-				{
-					name: "Email",
-					icon: "fa7-solid:envelope",
-					url: "mailto:Jack-Huang-2020@outlook.com",
-				},
-				{
-					name: "Sponsor",
-					icon: "material-symbols:favorite",
-					url: "/sponsor/",
-				},
-				{
-					name: "RSS",
-					icon: "fa7-solid:rss",
-					url: "/rss/",
-				},
+			{
+				name: "Telegram",
+				icon: "fa7-brands:telegram",
+				url: "https://t.me/Jack_Huang_114514",
+				showName: true,
+			},
+			{
+				name: "WeChat",
+				icon: "fa7-brands:weixin",
+				url: "/assets/images/personal/wechat.png",
+				showName: false,
+			},
+			{
+				name: "QQ",
+				icon: "fa7-brands:qq",
+				url: "https://qm.qq.com/q/UOhNYtnOSe",
+				showName: false,
+			},
+			{
+				name: "Gmail",
+				icon: "fa7-solid:envelope",
+				url: "mailto:Jack.Huang.20100704@gmail.com",
+				showName: true,
+			},
+			{
+				name: "Outlook",
+				icon: "fa7-solid:envelope",
+				url: "mailto:Jack-Huang-2020@outlook.com",
+				showName: false,
+			},
+			{
+				name: "小破站",
+				icon: "fa7-brands:bilibili",
+				url: "https://space.bilibili.com/581938829",
+				showName: true,
+			},
+			{
+				name: "GitHub",
+				icon: "fa7-brands:github",
+				url: "https://github.com/Jack-Huang-2010",
+				showName: true,
+			},
+			{
+				name: "𝕏",
+				icon: "fa7-brands:x-twitter",
+				url: "http://x.com/Jack_Huang_2020",
+				showName: false,
+			},
+			{
+				name: "Youtube",
+				icon: "fa7-brands:youtube",
+				url: "https://www.youtube.com/@Jack-Huang-2010",
+				showName: false,
+			},
+			{
+				name: "RSS",
+				icon: "material-symbols:rss-feed-rounded",
+				url: "/rss/",
+				showName: false,
+			},
 			],
 		},
 		// 壁纸轮播配置，横幅壁纸和全屏壁纸共享，仅在配置多张图片时生效
