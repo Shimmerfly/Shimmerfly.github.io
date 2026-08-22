@@ -28,7 +28,7 @@ const pages = resolvePageToggles({
 	// 番组计划页面开关
 	bangumi: true,
 	// VNDB页面开关
-	vndb: true,
+	vndb: false,
 	// MyAnimeList页面开关
 	mal: false,
 
