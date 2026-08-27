@@ -1,14 +1,14 @@
 {
-	"cuteleaf/firefly": {
-		"description": "🍀Firefly, fresh and aesthetic Astro blog theme template. ",
-		"language": "Astro",
-		"avatarUrl": "https://avatars.githubusercontent.com/u/43440669?v=4",
-		"license": "MIT"
+	"dr-tsng/zygisknext": {
+		"description": "Standalone implementation of Zygisk",
+		"language": "C",
+		"avatarUrl": "https://avatars.githubusercontent.com/u/52071314?v=4",
+		"license": null
 	},
-	"saicaca/fuwari": {
-		"description": "✨A static blog template built with Astro. ",
-		"language": "Astro",
-		"avatarUrl": "https://avatars.githubusercontent.com/u/25200299?v=4",
-		"license": "MIT"
+	"performanc/rezygisk": {
+		"description": "Transparent implementation of Zygisk.",
+		"language": "C",
+		"avatarUrl": "https://avatars.githubusercontent.com/u/120441268?v=4",
+		"license": "GPL-3.0"
 	}
 }
