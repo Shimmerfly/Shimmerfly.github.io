@@ -108,7 +108,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			{
 				name: "Telegram",
 				icon: "fa7-brands:telegram",
-				url: "https://t.me/Jack_Huang_114514",
+				url: "https://t.me/Shimmerfly",
 				showName: true,
 			},
 			{
@@ -150,13 +150,13 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			{
 				name: "𝕏",
 				icon: "fa7-brands:x-twitter",
-				url: "http://x.com/Jack_Huang_2020",
+				url: "http://x.com/Shimmerfly_233",
 				showName: false,
 			},
 			{
 				name: "Youtube",
 				icon: "fa7-brands:youtube",
-				url: "https://www.youtube.com/@Jack-Huang-2010",
+				url: "https://www.youtube.com/@Shimmerfly_233",
 				showName: false,
 			},
 			{

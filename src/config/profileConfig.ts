@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫",
 
 	// 个人签名
-	bio: "竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生",
+	bio: "我会看到 飞萤之火自无梦的长夜亮起 绽放在终竟的明天",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -24,7 +24,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Telegram",
 			icon: "fa7-brands:telegram",
-			url: "https://t.me/Jack_Huang_114514",
+			url: "https://t.me/Shimmerfly",
 			showName: true,
 		},
 		{
@@ -66,13 +66,13 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "𝕏",
 			icon: "fa7-brands:x-twitter",
-			url: "http://x.com/Jack_Huang_2020",
+			url: "http://x.com/Shimmerfly_233",
 			showName: true,
 		},
 		{
 			name: "Youtube",
 			icon: "fa7-brands:youtube",
-			url: "https://www.youtube.com/@Jack-Huang-2010",
+			url: "https://www.youtube.com/@Shimmerfly_233",
 			showName: true,
 		},
 		{
