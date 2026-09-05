@@ -9,7 +9,7 @@ category: 杂谈
 draft: false
 image: Stop-Working-on-Windows!.assets/F**k Microsoft!!.jpg
 slug: Stop-Developing-on-Windows
-author: kokic & 𝚒𝚖𝚙𝚘𝚛𝚝 { 𝘑𝘢𝘤𝘬 𝘏𝘶𝘢𝘯𝘨 } 𝚏𝚛𝚘𝚖 '☘️';
+author: kokic & 𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫
 licenseName: CC0
 sourceLink: https://zhuanlan.fxzhihu.com/p/2024527609388627701
 ---

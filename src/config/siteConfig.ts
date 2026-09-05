@@ -40,17 +40,17 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "𝚒𝚖𝚙𝚘𝚛𝚝 { 𝘑𝘢𝘤𝘬 𝘏𝘶𝘢𝘯𝘨 } 𝚏𝚛𝚘𝚖 '☘️' の Blog",
+	title: "𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫 の Blog",
 
 	// 站点副标题
 	subtitle: "爱你 妲妲",
 
 	// 站点 URL
-	site_url: "https://jack-huang-2010.github.io",
+	site_url: "https://shimmerfly.github.io",
 
 	// 站点描述
 	description:
-		"呐呐🎵~ 这里是 𝚒𝚖𝚙𝚘𝚛𝚝 { 𝘑𝘢𝘤𝘬 𝘏𝘶𝘢𝘯𝘨 } 𝚏𝚛𝚘𝚖 '☘️' 的 Blog 呀~ Welcome!",
+		"呐呐🎵~ 这里是 𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫 的 Blog 呀~ Welcome!",
 
 	// 站点关键词
 	keywords: [
@@ -105,7 +105,7 @@ export const siteConfig: SiteConfig = {
 			alt: "☘️",
 		},
 		// 导航栏标题
-		title: "𝘑𝘢𝘤𝘬 𝘏𝘶𝘢𝘯𝘨 の 𝗕𝗹𝗼𝗴",
+		title: "𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫 の 𝗕𝗹𝗼𝗴",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中

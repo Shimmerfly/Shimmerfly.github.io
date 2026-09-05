@@ -9,7 +9,7 @@ category: 杂谈
 draft: false
 image: https://www.linuxatemyram.com/atemyram.png
 slug: Linux-Ate-My-RAM!!!
-author: Vidar Holen（原著） & 𝚒𝚖𝚙𝚘𝚛𝚝 { 𝘑𝘢𝘤𝘬 𝘏𝘶𝘢𝘯𝘨 } 𝚏𝚛𝚘𝚖 '☘️';（翻译）
+author: Vidar Holen（原著） & 𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫（翻译）
 licenseName: Do the F**k YOU WANT!
 sourceLink: https://www.linuxatemyram.com/
 ---
@@ -113,10 +113,10 @@ echo 3 | sudo tee /proc/sys/vm/drop_caches
 >
 > > [!TIP]
 > >
-> > 此博客也已[在 Github 开源](https://github.com/Jack-Huang-2010/jack-huang-2010.github.io)，欢迎提出建议或提交 PR
+> > 此博客也已[在 Github 开源](https://github.com/Shimmerfly/shimmerfly.github.io)，欢迎提出建议或提交 PR
 >
 > > [!CAUTION]
 > >
-> > Tranlated by [𝚒𝚖𝚙𝚘𝚛𝚝 { 𝘑𝘢𝘤𝘬 𝘏𝘶𝘢𝘯𝘨 } 𝚏𝚛𝚘𝚖 '☘️';](/about)
+> > Tranlated by [𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫](/about)
 > >
 > > **转载请标注原译者和作者**

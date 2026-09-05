@@ -6,7 +6,7 @@
 
 **Firefly（流萤）** 是一款基于 **Astro 7** + **Svelte 5** + **Tailwind CSS 4** 构建的清新美观的静态博客主题，是 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发分支（上游：[CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)）。
 
-本仓库是个人 fork，主要语言为简体中文，附带 en、zh_TW、ja、ko、ru 的 i18n。站点部署在 GitHub Pages，域名为 `https://jack-huang-2010.github.io`。
+本仓库是个人 fork，主要语言为简体中文，附带 en、zh_TW、ja、ko、ru 的 i18n。站点部署在 GitHub Pages，域名为 `https://shimmerfly.github.io`。
 
 ## 常用命令
 
@@ -75,7 +75,7 @@ docs/               # 多语言 README 与图片
 - 工作分支为 **`JH`**（origin 默认分支即 JH，也是 GitHub Pages 部署分支，见 `.github/workflows/deploy.yml`）
 - **同步上游**：`git fetch upstream` → `git merge upstream/master`（历史上一直采用 merge 而非 rebase）→ 解决冲突 → 验证 → 提交 merge → `git push origin JH`
 - remote：
-  - `origin` = `https://github.com/Jack-Huang-2010/jack-huang-2010.github.io.git`（个人 fork 仓库）
+  - `origin` = `https://github.com/Shimmerfly/shimmerfly.github.io.git`（个人 fork 仓库）
   - `upstream` = `https://github.com/CuteLeaf/Firefly.git`（上游模板）
 - 合并上游冲突时，原则是**结构跟随上游、保留本 fork 的个性化配置**（站点 URL、标题、页面开关、图片、链接等），例如 `src/config/siteConfig.ts` 的 `pages` 开关、`backgroundWallpaper.ts` 的壁纸/轮播/横幅文字
 

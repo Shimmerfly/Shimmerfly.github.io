@@ -10,7 +10,7 @@ licenseName: CC BY-NC-SA 4.0
 draft: false
 image: WeKit-Doc.assets/Wallpaper.jpg
 slug: WeKit-Doc
-author: 𝚒𝚖𝚙𝚘𝚛𝚝 { 𝘑𝘢𝘤𝘬 𝘏𝘶𝘢𝘯𝘨 } 𝚏𝚛𝚘𝚖 '☘️';
+author: 𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫
 ---
 
 > [!TIP]
@@ -22,7 +22,7 @@ author: 𝚒𝚖𝚙𝚘𝚛𝚝 { 𝘑𝘢𝘤𝘬 𝘏𝘶𝘢𝘯𝘨 } 𝚏�
 
 # 🪨 **A Stone Badge & 不死图腾**
 
-![没错这个石墩子除了浪费你 5 MiB 流量外毫无作用 石墩子指向本博客的 [Github](https://github.com/Jack-Huang-2010/Blog) 仓库 项目🔗： [https://github.com/professor-lee/StoneBadge](https://github.com/professor-lee/StoneBadge)](https://stone.professorlee.work/api/stone/Jack-Huang-2010/Blog)
+![没错这个石墩子除了浪费你 5 MiB 流量外毫无作用 石墩子指向本博客的 [Github](https://github.com/Shimmerfly/shimmerfly.github.io) 仓库 项目🔗： [https://github.com/professor-lee/StoneBadge](https://github.com/professor-lee/StoneBadge)](https://stone.professorlee.work/api/stone/Shimmerfly/shimmerfly.github.io)
 
 ```txt
         🟫🟫🟫🟫🟫🟫

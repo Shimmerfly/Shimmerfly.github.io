@@ -9,7 +9,7 @@ category: 杂谈
 draft: false
 image: How-To-Ask-Questions-The-Smart-Way.assets/cover.png
 slug: How-To-Ask-Questions-The-Smart-Way
-author: Eric S. Raymond, Rick Moen(英文版 ©️) & D.H.Grand(nOBODY/Ginux), Gasolin, by Ryan Wu(中文版 ©️) & 𝚒𝚖𝚙𝚘𝚛𝚝 { 𝘑𝘢𝘤𝘬 𝘏𝘶𝘢𝘯𝘨 } 𝚏𝚛𝚘𝚖 '☘️';
+author: Eric S. Raymond, Rick Moen(英文版 ©️) & D.H.Grand(nOBODY/Ginux), Gasolin, by Ryan Wu(中文版 ©️) & 𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫
 licenseName: ARR
 sourceLink: https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md
 ---

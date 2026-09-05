@@ -9,7 +9,7 @@ category: 杂谈
 draft: false
 image: About-My-XP.assets/%E7%BA%B3%E8%A5%BF%E5%A6%B2%C2%B7%E4%BB%B0%E6%9C%88.png
 slug: About-JH-XP
-author: 𝚒𝚖𝚙𝚘𝚛𝚝 { 𝘑𝘢𝘤𝘬 𝘏𝘶𝘢𝘯𝘨 } 𝚏𝚛𝚘𝚖 '☘️';
+author: 𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫
 licenseName: CC BY-NC-SA 4.0
 password: "JH20100704@"
 passwordHint: "画🫓：没准哪天就公开了捏......"

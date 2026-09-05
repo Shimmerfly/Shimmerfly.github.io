@@ -10,7 +10,7 @@ licenseName: CC BY-NC-SA 4.0
 draft: false
 image: Miko-Doc.assets/Nahida.png
 slug: Miko-Doc
-author: 𝚒𝚖𝚙𝚘𝚛𝚝 { 𝘑𝘢𝘤𝘬 𝘏𝘶𝘢𝘯𝘨 } 𝚏𝚛𝚘𝚖 '☘️';
+author: 𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫
 ---
 
 > [!NOTE] 
