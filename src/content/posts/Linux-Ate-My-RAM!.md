@@ -113,7 +113,7 @@ echo 3 | sudo tee /proc/sys/vm/drop_caches
 >
 > > [!TIP]
 > >
-> > 此博客也已[在 Github 开源](https://github.com/Shimmerfly/shimmerfly.github.io)，欢迎提出建议或提交 PR
+> > 此博客也已[在 Github 开源](https://github.com/Shimmerfly/Shimmerfly.github.io)，欢迎提出建议或提交 PR
 >
 > > [!CAUTION]
 > >

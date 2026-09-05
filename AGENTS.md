@@ -75,7 +75,7 @@ docs/               # 多语言 README 与图片
 - 工作分支为 **`JH`**（origin 默认分支即 JH，也是 GitHub Pages 部署分支，见 `.github/workflows/deploy.yml`）
 - **同步上游**：`git fetch upstream` → `git merge upstream/master`（历史上一直采用 merge 而非 rebase）→ 解决冲突 → 验证 → 提交 merge → `git push origin JH`
 - remote：
-  - `origin` = `https://github.com/Shimmerfly/shimmerfly.github.io.git`（个人 fork 仓库）
+  - `origin` = `https://github.com/Shimmerfly/Shimmerfly.github.io.git`（个人 fork 仓库）
   - `upstream` = `https://github.com/CuteLeaf/Firefly.git`（上游模板）
 - 合并上游冲突时，原则是**结构跟随上游、保留本 fork 的个性化配置**（站点 URL、标题、页面开关、图片、链接等），例如 `src/config/siteConfig.ts` 的 `pages` 开关、`backgroundWallpaper.ts` 的壁纸/轮播/横幅文字
 
