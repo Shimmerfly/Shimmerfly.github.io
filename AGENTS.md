@@ -72,8 +72,8 @@ docs/               # 多语言 README 与图片
 
 ## 仓库工作流（重要）
 
-- 工作分支为 **`JH`**（origin 默认分支即 JH，也是 GitHub Pages 部署分支，见 `.github/workflows/deploy.yml`）
-- **同步上游**：`git fetch upstream` → `git merge upstream/master`（历史上一直采用 merge 而非 rebase）→ 解决冲突 → 验证 → 提交 merge → `git push origin JH`
+- 工作分支为 **`Shimmerfly`**（origin 默认分支即 Shimmerfly，也是 GitHub Pages 部署分支，见 `.github/workflows/deploy.yml`）
+- **同步上游**：`git fetch upstream` → `git merge upstream/master`（历史上一直采用 merge 而非 rebase）→ 解决冲突 → 验证 → 提交 merge → `git push origin Shimmerfly`
 - remote：
   - `origin` = `https://github.com/Shimmerfly/Shimmerfly.github.io.git`（个人 fork 仓库）
   - `upstream` = `https://github.com/CuteLeaf/Firefly.git`（上游模板）
@@ -81,7 +81,7 @@ docs/               # 多语言 README 与图片
 
 ## 部署
 
-- **GitHub Pages**（主）：push 到 `JH` 分支触发 `.github/workflows/deploy.yml`
+- **GitHub Pages**（主）：push 到 `Shimmerfly` 分支触发 `.github/workflows/deploy.yml`
 - **Vercel**（`vercel.json`）、**Cloudflare Workers**（`wrangler.jsonc`，需设 `CF_WORKERS` 环境变量）
 - 构建产物输出到 `dist/`（gitignore）
 
