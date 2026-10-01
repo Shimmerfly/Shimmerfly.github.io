@@ -17,7 +17,7 @@
 >
 > [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z41NQALY)
 >
-> **QQ 커뮤니티: [1087127207](https://qm.qq.com/q/ZGsFa8qX2G)**
+> **QQ 커뮤니티: [1087127207]()**
 >
 > ![GitHub License](https://img.shields.io/github/license/CuteLeaf/Firefly)
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/CuteLeaf/Firefly)
