@@ -39,32 +39,17 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 桌面背景图片（支持单张或多张随机）
 		// desktop: "assets/images/DesktopWallpaper/d1.avif",
 		desktop: [
-			"assets/images/DesktopWallpaper/d1.avif",
-			"assets/images/DesktopWallpaper/d2.avif",
-			"assets/images/DesktopWallpaper/d3.avif",
-			"assets/images/DesktopWallpaper/d4.avif",
-			"assets/images/DesktopWallpaper/d5.avif",
-			"assets/images/DesktopWallpaper/d6.avif",
+			"assets/images/DesktopWallpaper/Main.png",
 		],
 		// 移动背景图片（支持单张或多张随机）
 		// mobile: "assets/images/MobileWallpaper/m1.avif",
 		mobile: [
-			"assets/images/MobileWallpaper/m1.avif",
-			"assets/images/MobileWallpaper/m2.avif",
-			"assets/images/MobileWallpaper/m3.avif",
-			"assets/images/MobileWallpaper/m4.avif",
-			"assets/images/MobileWallpaper/m5.avif",
-			"assets/images/MobileWallpaper/m6.avif",
+			"assets/images/DesktopWallpaper/Main.png",
 		],
-		// 背景视频播放地址
-		// 支持单个视频路径（字符串）或多个视频循环（数组，参考上面壁纸配置）
-		// 支持远程视频URL，本地视频请放在 public/assets/videos/ 目录下
-		// playerUrl: "/assets/videos/firefly.mp4",
-		playerUrl: "https://bed.twoleaf.cn/file/1785658612716_firefly.mp4",
 	},
 	// 横幅壁纸和全屏壁纸共享配置
 	common: {
-		// 壁纸遮罩暗度，让横幅文字显示更清晰，0-1之间，值越大越暗
+		// 横幅文字遮罩暗度，0-1之间，值越大越暗
 		dimOpacity: 0.2,
 		// 多视频播放模式："order" 顺序循环，"random" 随机切换（仅当 playerUrl 为数组时生效）
 		playerMode: "random",
@@ -73,17 +58,18 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用主页横幅文字
 			enable: true,
 			// 主页横幅主标题
-			title: "Lovely firefly!",
+			title: "Lovely 𝓝𝓪𝓱𝓲𝓭𝓪!",
 			// 主页横幅主标题字体大小
 			titleSize: "4.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"In Reddened Chrysalis, I Once Rest",
-				"From Shattered Sky, I Free Fall",
-				"Amidst Silenced Stars, I Deep Sleep",
-				"Upon Lighted Fyrefly, I Soon Gaze",
-				"From Undreamt Night, I Thence Shine",
-				"In Finalized Morrow, I Full Bloom",
+				"欲买桂花同载酒，终不似，少年游",
+				"竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生",
+				"回首向来萧瑟处，归去，也无风雨也无晴",
+				"若无来生，便以今世，生死相许",
+				"不管当下的境遇如何，提瓦特大陆的星空永远有你的位置",
+				"总有地上的生灵，敢于面对雷霆的威光",
+				"我会看见，飞萤之火自无梦的长夜亮起，绽放在终竟的明天",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
@@ -104,38 +90,72 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 首页横幅标题下方的链接图标（可选，支持 showName 显示文字）
 			// 图标支持 Iconify 格式：fa7-brands:github、fa7-solid:envelope、mdi:rss 等
 			links: [
-				{
-					name: "GitHub",
-					icon: "fa7-brands:github",
-					url: "https://github.com/CuteLeaf/Firefly",
-					showName: true,
-				},
-				{
-					name: "Email",
-					icon: "fa7-solid:envelope",
-					url: "mailto:xiaye@msn.com",
-				},
-				{
-					name: "Sponsor",
-					icon: "material-symbols:favorite",
-					url: "https://blog.cuteleaf.cn/sponsor/",
-				},
-				{
-					name: "RSS",
-					icon: "fa7-solid:rss",
-					url: "/rss/",
-				},
+			{
+				name: "Telegram",
+				icon: "fa7-brands:telegram",
+				url: "https://t.me/Shimmerfly",
+				showName: true,
+			},
+			{
+				name: "Gmail",
+				icon: "fa7-solid:envelope",
+				url: "mailto:Jack.Huang.20100704@gmail.com",
+				showName: true,
+			},
+			{
+				name: "Outlook",
+				icon: "fa7-solid:envelope",
+				url: "mailto:Jack-Huang-2020@outlook.com",
+				showName: false,
+			},
+			{
+				name: "小破站",
+				icon: "fa7-brands:bilibili",
+				url: "https://space.bilibili.com/581938829",
+				showName: true,
+			},
+			{
+				name: "GitHub",
+				icon: "fa7-brands:github",
+				url: "https://github.com/Shimmerfly",
+				showName: true,
+			},
+			{
+				name: "𝕏",
+				icon: "fa7-brands:x-twitter",
+				url: "http://x.com/Shimmerfly_233",
+				showName: false,
+			},
+			{
+				name: "Youtube",
+				icon: "fa7-brands:youtube",
+				url: "https://www.youtube.com/@Shimmerfly_233",
+				showName: false,
+			},
+			{
+				name: "RSS",
+				icon: "material-symbols:rss-feed-rounded",
+				url: "/rss/",
+				showName: false,
+			},
+			{
+			name: "Atom",
+			icon: "fa7-solid:atom",
+			url: "/atom/",
+			showName: false,
+			},
 			],
 		},
 		// 壁纸轮播配置，横幅壁纸和全屏壁纸共享，仅在配置多张图片时生效
 		carousel: {
 			// 是否启用壁纸轮播；关闭时保持每次刷新随机显示一张
-			enable: false,
+			enable: true,
 			// 轮播切换间隔（毫秒）
 			interval: 5000,
 			// 过渡效果: 'fade' 渐变 | 'zoom' 缩放 | 'slide' 滑动 | 'kenburns' 旋转木马
 			transitionEffect: "zoom",
 		},
+
 		// 水波纹动画效果配置，开启会影响页面性能，增加内存占用，请根据自己的喜好开启
 		waves: {
 			enable: {
@@ -162,7 +182,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 图片位置
 		// 支持所有CSS object-position值，如: 'top', 'center', 'bottom', 'left top', 'right bottom', '25% 75%', '10px 20px'..
 		// 如果不知道怎么配置百分百之类的配置，推荐直接使用：'center'居中，'top'顶部居中，'bottom' 底部居中，'left'左侧居中，'right'右侧居中
-		position: "0% 20%",
+		position: "center",
 		// 文章横幅信息："description" 显示描述，"meta" 显示日期、字数和阅读时长
 		postInfo: {
 			mode: "description",
@@ -170,10 +190,10 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		// 导航栏配置
 		navbar: {
 			// 导航栏透明模式："semi" 半透明，"semifull" 动态透明，"none" 纯色不透明
-			transparentMode: "semi",
+			transparentMode: "semifull",
 			// 毛玻璃模糊度，0 即关闭导航栏的毛玻璃
 			// 注意：导航栏子菜单与浮动面板始终保留毛玻璃，模糊度跟随此项但有最小值
-			blur: 12,
+			blur: 5,
 		},
 	},
 	// 覆盖透明覆盖模式特有配置
