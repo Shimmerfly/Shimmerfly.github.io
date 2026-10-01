@@ -85,16 +85,16 @@ export const spineModelConfig: SpineModelConfig = {
 // Live2D 看板娘配置 (使用 l2d-widget 库，文档：https://l2d-widget.hacxy.cn)
 export const live2dWidgetConfig: Live2DWidgetConfig = {
 	// Live2D 看板娘开关
-	enable: false,
+	enable: true,
 	// 模型配置，支持单个模型或数组（多模型切换）
 	model: [
 		{
 			// Live2D模型本地文件路径
-			path: "/pio/models/live2d/snow_miku/model.json",
+			path: "/pio/models/live2d/nahida/naxida.model3.json",
 			// 动作声音音量 范围0~1，默认 0（静音）
 			volume: 0,
 			// 模型缩放比例
-			scale: 1,
+			scale: 1.5,
 			// X轴偏移，范围 -2~2，正值向右
 			x: 0,
 			// Y轴偏移，范围 -2~2，正值向上
@@ -112,7 +112,7 @@ export const live2dWidgetConfig: Live2DWidgetConfig = {
 	// 显示位置：bottom-left 或 bottom-right
 	position: "bottom-left" as const,
 	// 画布尺寸（px）
-	size: { width: 200, height: 200 },
+	size: { width: 400, height: 400 },
 	// 主题色，用于菜单、状态条等 UI 元素的背景色，默认 'rgba(96,165,250,0.9)'
 	primaryColor: "var(--l2d-msg-bg)",
 	// 入场/退场动画时长（ms）
@@ -139,11 +139,6 @@ export const live2dWidgetConfig: Live2DWidgetConfig = {
 				action: "sleep",
 			},
 			{
-				icon: "mdi:swap-horizontal",
-				label: "切换模型",
-				action: "switchModel",
-			},
-			{
 				icon: "mdi:github",
 				label: "GitHub",
 				action: "github",
@@ -157,18 +152,20 @@ export const live2dWidgetConfig: Live2DWidgetConfig = {
 		// 气泡开关
 		enable: true,
 		// 初始欢迎消息
-		welcomeMessage: ["你好呀！", "欢迎来到我的世界！"],
+		welcomeMessage: ["早上好，我们赶快出发吧，这世上有太多的东西都是「过时不候」的呢", "我等你好久啦~"],
 		// 循环提示内容
 		messages: [
-			"有什么需要帮助的吗？",
-			"今天天气真不错呢！",
-			"要不要一起玩游戏？",
-			"记得按时休息哦！",
+			"不知道干什么的话，要不要我带你去转转呀？",
+			"又有心事吗？我来陪你一起想吧！",
+			"天气真好啊，暖洋洋的，我们的身边马上也要热闹起来了",
+			"就这样看着你，算是爱好嘛",
+			"果然要亲眼去看，才能感受到世界的美",
+			"没去过的地方还有很多呢!",
 		],
 		// 文字显示时间（ms）
-		duration: 3000,
+		duration: 10000,
 		// 提示气泡切换间隔（ms）
-		interval: 6000,
+		interval: 100000,
 		// 位置偏移量（px），基于默认位置（模型正上方居中）进行微调
 		offset: {
 			x: 0, // 正值右移，负值左移
