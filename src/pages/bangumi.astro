@@ -11,7 +11,7 @@ import type {
 	UserSubjectCollection,
 	UserSubjectCollectionResponse,
 } from "@/types/bangumi";
-import { formatDateI18n } from "@/utils/date-utils";
+import { formatDateTimeToYYYYMMDDHHmm } from "@/utils/date-utils";
 import { filterNsfw, isBangumiNsfw } from "@/utils/nsfw-utils";
 
 //参考：霞葉 https://kasuha.com/posts/fuwari-enhance-ep2/
@@ -22,7 +22,7 @@ if (!siteConfig.pages.bangumi) {
 }
 
 // 获取构建时间
-const buildTime = formatDateI18n(new Date());
+const buildTime = formatDateTimeToYYYYMMDDHHmm(new Date());
 
 ////////////// Bangumi 配置 ////////////////////////
 const bangumiConfig = {
