@@ -11,7 +11,7 @@ Firefly is a feature-rich static blog theme built on **Astro 7** with **Svelte 5
 | Command | Purpose |
 |---|---|
 | `pnpm dev` | Dev server at `localhost:4321` |
-| `pnpm build` | Production build (LQIPs → VNDB covers → Astro build → pio asset pruning → font subsetting → Pagefind indexing) |
+| `pnpm build` | Production build (GitHub card data → LQIPs → VNDB covers → Astro build → pio asset pruning → font subsetting → inline-script minification → Pagefind indexing) |
 | `pnpm preview` | Preview production build |
 | `pnpm check` | `astro check` for type/error checking |
 | `pnpm type-check` | `tsc --noEmit --isolatedDeclarations` (covers `src/` and `scripts/`) |
@@ -43,6 +43,7 @@ All features are toggled/configured via TypeScript files in `src/config/`, expor
 
 - `Layout.astro` — base HTML shell (head, body, theme init, analytics, Swup hooks)
 - `MainGridLayout.astro` — full page grid with sidebar(s), navbar, wallpaper, footer
+- Non-home banner height is clamped as `max(BANNER_HEIGHT_NON_HOME vh, BANNER_HEIGHT_NON_HOME_MIN px)` (both in `src/constants/constants.ts`), so short/laptop screens don't cramp the title/description.
 
 ### Scroll Performance Constraints
 
@@ -62,7 +63,7 @@ Defined in `src/content.config.ts`:
 ### Key Directories
 
 - `src/components/` — organized by domain: `analytics/`, `comment/`, `common/`, `controls/`, `features/`, `layout/`, `misc/`, `pages/`, `widget/`
-- `src/plugins/` — 15 custom remark/rehype plugins (Mermaid, PlantUML, KaTeX, GitHub cards, reading time, wiki links, etc.)
+- `src/plugins/` — 15 custom remark/rehype plugins (Mermaid, PlantUML, KaTeX, GitHub cards, reading time, wiki links, etc.). Note `rehype-mermaid.mjs` emits SVG as **element nodes** via `hast-util-from-html` (not `{ type: "raw" }`) — MDX's `hast-util-to-estree` rejects raw nodes, so keep it this way or MDX mermaid breaks.
 - `src/i18n/` — translation keys in `i18nKey.ts`, language files in `languages/*.ts`, lookup via `translation.ts`
 - `src/utils/` — content sorting, crypto (encrypted posts), date formatting, image processing/LQIP, TOC generation
 - `src/pages/` — Astro file-based routing
@@ -76,13 +77,13 @@ Defined in `src/content.config.ts`:
 
 - **Biome** enforces: tab indentation, double quotes, recommended lint rules
 - Relaxed rules for `.svelte`/`.astro`/`.vue` files (`useConst`, `useImportType`, `noUnusedVariables`, `noUnusedImports` off)
-- `pnpm lint`/`pnpm format` only target `./src` — `scripts/` is type-checked (tsconfig `include`) but not linted, and currently has pre-existing Biome findings
+- `pnpm lint`/`pnpm format` run Biome over both `./src` and `./scripts` (biome `files.includes` is `**`); `scripts/` has pre-existing Biome findings, so avoid unrelated cleanups there
 - `scripts/subset-font.d.ts` is a hand-written ambient declaration for the untyped `subset-font` package
 - Commit convention: **Conventional Commits** (`feat:`, `fix:`, `chore:`, etc.)
 
 ## Build Pipeline
 
-Multi-step: `scripts/generate-lqips.ts` → `scripts/generate-vndb-covers.ts` → `astro build` → `scripts/prune-pio-assets.ts` → `scripts/subset-fonts.ts` → `scripts/minify-inline-scripts.ts` → `pagefind --site dist`
+Multi-step (from `package.json` `build`): `scripts/generate-github-card-data.ts` → `scripts/generate-lqips.ts` → `scripts/generate-vndb-covers.ts` → `astro build` → `scripts/prune-pio-assets.ts` → `scripts/subset-fonts.ts` → `scripts/minify-inline-scripts.ts` → `scripts/run-pagefind.ts`
 
 LQIP data is generated into `src/constants/lqips.json` and committed — regenerate with `pnpm lqips`. Icon data lives in `src/constants/icons-data.json` (committed, Biome-ignored, consumed by `src/components/common/Icon.svelte`) but has no generator script in the current build.
 
