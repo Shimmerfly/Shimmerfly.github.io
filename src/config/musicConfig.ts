@@ -48,11 +48,11 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	local: {
 		playlist: [
 			{
-				name: "使一颗心免于哀伤",
-				artist: "知更鸟 / HOYO-MiX / Chevy",
-				url: "/assets/music/使一颗心免于哀伤-哼唱.mp3",
-				cover: "/assets/music/cover/109951169585655912.webp",
-				lrc: "",
+				name: "提瓦特民谣",
+				artist: "宴宁 / XY大甘蔗 / 柳知萧 / 闫夜桥 / 陶典 / 孙晔",
+				url: "/assets/music/宴宁、XY大甘蔗、柳知萧、闫夜桥、陶典、孙晔 - 提瓦特民谣.flac",
+				cover: "/assets/music/cover/宴宁、XY大甘蔗、柳知萧、闫夜桥、陶典、孙晔 - 提瓦特民谣.jpg",
+				lrc: "/assets/music/宴宁、XY大甘蔗、柳知萧、闫夜桥、陶典、孙晔 - 提瓦特民谣.lrc",
 			},
 		],
 	},
