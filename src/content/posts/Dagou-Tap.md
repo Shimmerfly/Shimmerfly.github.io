@@ -11,14 +11,14 @@ licenseName: MIT
 author: 𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫 & DeepSeek & MarkCup
 ---
 
-把 MarkCup 的 **「大狗 Tap」** 互动壁纸原封不动搬进了博客喵～整个网页应用（含图片、音效、Canvas 特效）已经放在本站的 `public/wallpaper/dagou-tap/` 里，直接在下面这个框里就能玩喵！
+把 MarkCup 的 **「大狗 Tap」** 互动壁纸原封不动搬进了博客喵～整个网页应用（含图片、音效、Canvas 特效）已经放在本站的 `public/dagou-tap/` 里，直接在下面这个框里就能玩喵！
 
 > [!NOTE]
 > 第一次点任意位置是必要的喵——浏览器不允许网页在用户操作之前自动播放声音，点一下之后音乐和音效才会解锁～
 
 ## 🐶 直接开玩
 
-<iframe src="dagou-tap/index.html" title="大狗 Tap 互动壁纸" width="100%" height="640" style="border:none;border-radius:16px;background:#fff2dc;" allow="autoplay" loading="lazy"></iframe>
+<iframe src="/dagou-tap/index.html" title="大狗 Tap 互动壁纸" width="100%" height="640" style="border:none;border-radius:16px;background:#fff2dc;" allow="autoplay" loading="lazy"></iframe>
 
 如果上面没显示出来，点这里也一样喵 👉 **[全屏打开大狗 Tap](/dagou-tap/index.html)**
 
