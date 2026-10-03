@@ -1,9 +1,110 @@
+> 你好！ 我是 **𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫** ，一点在数字世界中默默无闻的星光。
+
+<div align="center"><style>body{padding:20px;}.card{height:auto;width:372px;border-radius:8px;box-shadow:0 2px 10px rgba(0,0,0,0.08);}.header-code{padding:6px 12px;font-size:15px;}.avatar-area{padding:20px 0;;display:flex;justify-content:center;align-items:center;min-height:150px;}.avatar-area img{width:120px;height:auto;image-rendering:pixelated;}.table-wrap{width:100%;border-collapse:collapse;font-size:13px;}.table-wrap tr:last-child td{border-bottom:none;}.table-wrap td{padding:5px 10px;}.label{width:115px;}.value{line-height:1.6;}.table-wrap tr:nth-child(even) .label{}.tag{display:inline-block;padding:0 5px;border-radius:2px;font-size:11px;}.sprite{display:inline-block;width:14px;height:14px;border-radius:1px;vertical-align:middle;}.purple{background:#7b1fa2;border-color:#4a148c;}</style></head><body><div class="card"><div class="header-code"><a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a></div><div class="avatar-area"><!-- 这里是放置你 3D 角色图片的地方，把 src 替换成你的图片路径即可 --><img src="https://s.namemc.com/3d/skin/body.png?id=cdbc9c60a3ffacba&model=slim&theta=30&phi=21&time=90&width=600&height=800" alt="Shimmerfly · 星沫 3D角色" style="height:400px;width:300px"></div><table class="table-wrap"><tbody><tr><td class="label">正版ID</td><td class="value"><span style="color:green;">𝚂𝚑𝚒𝚖𝚖𝚎𝚛𝚏𝚕𝚢_𝟸𝟹𝟹<sup class="tag nowrap">[仅 <a href="https://zh.minecraft.wiki/w/Java%E7%89%88" title=" Java 版">Java 版</a>]</sup></span><br><span style="color:#fbc02d;">🌈 𝚁𝚊𝚒𝚗𝚋𝚘𝚠𝟺𝟻𝟹𝟼 🌈<sup class="tag nowrap">[仅<a href="https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%88" title="基岩版">基岩版</a>]</sup></td></tr><tr><td class="label">真实姓名</td><td class="value"><span style="border:1px solid #e57373;background:#ffebee;padding:0 5px;border-radius:2px;color:#c62828;font-size:11px;display:inline-block;">[Permission Denied]</span></td></tr><tr><td class="label">所在地</td><td class="value">中国杭州</td></tr><tr><td class="label">类型</td><td class="value">友好生物</td></tr><tr><td class="label">生命值</td><td class="value">114514 (<span style="color:#d32f2f;">❤</span> × 57257)</td></tr><tr><td class="label">攻击力</td><td class="value">-1 (<span style="color:#d32f2f;">❤</span>)</td></tr></td></tr></tbody></table></div></div>
+
+## 关于我的 XP · About my XP
+
+已单独成篇至[此处](/posts/About-JH-XP)
+
+## UserBox · 用户框
+
+### 国籍及语言
+
+<div style="display:flex;align-items:center;background-color:#D92511;padding-right:10px;border:1px solid #808080;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#ffffff;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Flag_of_the_People%27s_Republic_of_China.svg" alt="Linux" style="width:44px;height:29px;border-radius:0px;"></div><div style="color:#ffde00ff;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a> 来自中国，你好！</div></div>
+
+<div style="display:flex;align-items:center;background-color:#BDFCD7;padding-right:10px;border:1px solid #808080;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#6EF7A7;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Flag_of_the_People%27s_Republic_of_China.svg" alt="Linux" style="width:44px;height:29px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp的母语是<a href="https://zh.wikipedia.org/wiki/%E6%B1%89%E8%AF%AD" class="extiw" title="wzh:汉语">汉语</a></div></div>
+
+### 又菜又爱玩
+
+<div style="display:flex;align-items:center;background-color:white;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#ffffff;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Genshin_Impact.png" alt="Chrome Logo" style="width:53px;height:53px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp正在原 __ __ 动！</div></div>
+
+<div style="display:flex;align-items:center;background-color:#25591A;padding-right:10px;border:1px solid #808080;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#B8F9E8;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Minecraft_franchise_icon.png" alt="Linux" style="width:53px;height:53px;border-radius:0px;"></div><div style="color:white;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp是一名 Minecrafter</div></div>
+
+<div style="display:flex;align-items:center;background-color:white;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#FFFF01;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Grass_Block_JE2.png" alt="Chrome Logo" style="width:32px;height:32px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp这家伙的 Minecraft Java 版用户名是 𝚂𝚑𝚒𝚖𝚖𝚎𝚛𝚏𝚕𝚢_𝟸𝟹𝟹<sup class="tag nowrap">[仅<a href="https://zh.minecraft.wiki/w/Java%E7%89%88" title=" Java 版">&nbspJava 版</a>]</sup></div></div>
+
+<div style="display:flex;align-items:center;background-color:white;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:black;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Bedrock_JE2_BE2.png" alt="Chrome Logo" style="width:32px;height:32px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp这家伙的 Minecraft(基岩版) 用户名是 🌈 𝚁𝚊𝚒𝚗𝚋𝚘𝚠𝟺𝟻𝟹𝟼 🌈<sup class="tag nowrap">[仅<a href="https://zh.minecraft.wiki/w/%E5%9F%BA%E5%B2%A9%E7%89%88" title="基岩版">基岩版</a>]</sup></div></div>
+
+<div style="display:flex;align-items:center;background-color:#FFEBFF;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:red;display:flex;align-items:center;justify-content:center;margin-right:14px;"><div class="userbox-cell userbox-logo" style="line-height:1.25em;padding:1px;color:white;height:43px;background:red;font-size:14pt;width:43px"><b>拒绝网易</b></div></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp非常不喜欢网易版，因为他认为网易版是魔改！</div></div>
+
+<div style="display:flex;align-items:center;background-color:#FFEBFF;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#FFFFEB;display:flex;align-items:center;justify-content:center;margin-right:14px;"><div class="userbox-cell userbox-logo" style="line-height:1.25em;padding:1px;color:black;height:43px;background:#FFFFEB;font-size:14pt;width:43px"><b>不玩基岩</b></div></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp不喜欢玩基岩版</div></div>
+
+<div style="display:flex;align-items:center;background-color:white;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:white;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/No_bedrock.png" alt="Chrome Logo" style="width:32px;height:32px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp已经不玩基岩版了</div></div>
+
+<div style="display:flex;align-items:center;background-color:#5A3B1E;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#FF9B00;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Fire_BE2.gif" alt="Chrome Logo" style="width:32px;height:32px;border-radius:0px;"></div><div style="color:white;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp喜欢玩火！</div></div>
+
+<div style="display:flex;align-items:center;background-color:black;padding-right:10px;border:1px solid #808080;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:black;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Missing_Model_JE2.png" alt="Linux" style="width:32px;height:32px;border-radius:0px;"></div><div style="color:white;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp喜爱上锁的箱子！</div></div>
+
+<div style="display:flex;align-items:center;background-color:red;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:white;display:flex;align-items:center;justify-content:center;margin-right:14px;"><div class="userbox-cell userbox-logo" style="line-height:1.25em;padding:1px;color:red;height:43px;background:white;font-size:14pt;width:43px"><b>/命令</b></div></div><div style="color:white;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp喜欢使用命令！</div></div>
+
+<div style="display:flex;align-items:center;background-color:#8E6645;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#ffffff;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Terraria-logo.jpg" alt="Chrome Logo" style="width:45px;height:23px;border-radius:0px;"></div><div style="color:white;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp爱玩&nbsp<a target="_blank" rel="nofollow noreferrer noopener" class="external text" href="http://terraria.wiki.gg">Terraria</a></div></div>
+
+### 社交的手腕
+
+<div style="display:flex;align-items:center;background-color:#FFB8C4;padding-right:10px;border:1px solid #808080;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#ffffff;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Bilibili.png" alt="Linux" style="width:45px;height:45px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="http://space.bilibili.com/581938829" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫 的小破站主页">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp也在 <a target="_blank" rel="nofollow noreferrer noopener" class="external text" title="小破站主页" href="http://bilibili.com/">小破站</a> 上活跃</div></div>
+
+<div style="display:flex;align-items:center;background-color:black;padding-right:10px;border:1px solid #808080;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:black;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/X_logo.svg" alt="Linux" style="width:40px;height:40px;border-radius:0px;"></div><div style="color:white;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="http://x.com/Shimmerfly_233" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫 的 𝕏 主页">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp也在 <a target="_blank" rel="nofollow noreferrer noopener" class="external text" title="𝕏 主页" href="http://x.com">𝕏</a> 上活跃</div></div>
+
+<div style="display:flex;align-items:center;background-color:#85EB85;padding-right:10px;border:1px solid #808080;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#ffffff;display:flex;align-items:center;justify-content:center;margin-right:14px;"><svg data-component="Octicon" aria-hidden="true" focusable="false" class="octicon octicon-mark-github" viewBox="0 0 24 24" width="44" height="44" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M10.226 17.284c-2.965-.36-5.054-2.493-5.054-5.256 0-1.123.404-2.336 1.078-3.144-.292-.741-.247-2.314.09-2.965.898-.112 2.111.36 2.83 1.01.853-.269 1.752-.404 2.853-.404 1.1 0 1.999.135 2.807.382.696-.629 1.932-1.1 2.83-.988.315.606.36 2.179.067 2.942.72.854 1.101 2 1.101 3.167 0 2.763-2.089 4.852-5.098 5.234.763.494 1.28 1.572 1.28 2.807v2.336c0 .674.561 1.056 1.235.786 4.066-1.55 7.255-5.615 7.255-10.646C23.5 6.188 18.334 1 11.978 1 5.62 1 .5 6.188.5 12.545c0 4.986 3.167 9.12 7.435 10.669.606.225 1.19-.18 1.19-.786V20.63a2.9 2.9 0 0 1-1.078.224c-1.483 0-2.359-.808-2.987-2.313-.247-.607-.517-.966-1.034-1.033-.27-.023-.359-.135-.359-.27 0-.27.45-.471.898-.471.652 0 1.213.404 1.797 1.235.45.651.921.943 1.483.943.561 0 .92-.202 1.437-.719.382-.381.674-.718.944-.943"></path></svg></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="https://github.com/Shimmerfly" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫 的 Github 页面">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbspis on&nbsp<a target="_blank" rel="nofollow noreferrer noopener" class="external text" title="Github 主页" href="https://github.com/unknown">GitHub</a></div></div>
+
+<div style="display:flex;align-items:center;background-color:#004825;padding-right:10px;border:1px solid #808080;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#ffffff;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Coolapk.png" alt="Linux" style="width:45px;height:45px;border-radius:0px;"></div><div style="color:white;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="https://www.coolapk.com/u/40199391" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp也在<a href="https://www.coolapk.com/" class="extiw" title="酷安主页"><span style="color:#0eaf68;">酷安</span></a>上活跃<br>用户名为&nbsp<a href="https://www.coolapk.com/u/40199391" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫 的酷安主页">Shimmerfly</a></div></div>
+
+### 泰克孬罗技
+
+<div style="display:flex;align-items:center;background-color:#FFE08B;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#FFAB5B;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Firefox.svg" alt="Chrome Logo" style="width:44px;height:44px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp喜欢使用 <a href="https://zh.wikipedia.org/wiki/Mozilla_Firefox" class="extiw" title="wzh:Mozilla Firefox"><span>Firefox</span></a>&nbsp浏览器</div></div>
+
+<div style="display:flex;align-items:center;background-color:skyblue;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#ffffff;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/PC.jpg" alt="PC" style="width:34px;height:41px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp喜欢使用&nbsp<a href="https://zh.wikipedia.org/wiki/%E4%B8%AA%E4%BA%BA%E7%94%B5%E8%84%91" class="extiw" title="wzh:个人电脑">个人电脑</a></div></div>
+
+<div style="display:flex;align-items:center;background-color:skyblue;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#ffffff;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Mac.png" alt="Mac" style="width:50px;height:38px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp喜欢使用&nbsp<a href="https://zh.wikipedia.org/wiki/%E9%BA%A6%E9%87%91%E5%A1%94" class="extiw" title="wzh:麦金塔">Mac&nbsp电脑</a></div></div>
+
+<div style="display:flex;align-items:center;background-color:black;padding-right:10px;border:1px solid #808080;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#ffffff;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Tux.svg" alt="Linux" style="width:38px;height:45px;border-radius:0px;"></div><div style="color:white;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp喜欢使用&nbsp<a href="https://zh.wikipedia.org/wiki/Linux" class="extiw" title="wzh:Linux">Linux</a>&nbsp系统</div></div>
+
+<div style="display:flex;align-items:center;background-color:skyblue;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#ffffff;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/MacOS_logo.svg" alt="macOS" style="width:45px;height:45px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp喜欢使用&nbsp<a href="https://zh.wikipedia.org/wiki/macOS" class="extiw" title="wzh:macOS">macOS</a>&nbsp系统</div></div>
+
+<div style="display:flex;align-items:center;background-color:#B8B8B8;padding-right:10px;border:1px solid #808080;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#ffffff;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Mac_OS_X.svg" alt="OSX" style="width:30px;height:36px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp喜欢使用&nbsp<a href="https://zh.wikipedia.org/wiki/Mac_OS_X" class="extiw" title="wzh:Mac OS X">OS&nbspX</a>&nbsp系统</div></div>
+
+<div style="display:flex;align-items:center;background-color:#35D779;padding-right:10px;border:1px solid #808080;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#ffffff;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Android.svg" alt="Linux" style="width:45px;height:26px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp喜欢使用原生&nbsp<a href="https://space.bilibili.com/691415738" class="extiw" title="wzh:Android">Android</a>&nbsp系统</div></div>
+
+<div style="display:flex;align-items:center;background-color:#EDFFED;padding-right:10px;border:1px solid #808080;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#bfffbf;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Android.svg" alt="Linux" style="width:45px;height:26px;border-radius:0px;"></div><div style="color:#00aa00;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp的手机搭载了 Google 的原生&nbsp<a href="https://zh.wikipedia.org/wiki/Android" class="extiw" title="wzh:Android">Android</a>&nbsp系统</div></div>
+
+<div style="display:flex;align-items:center;background-color:#FFD101;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#00FFFF;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Vscode.png" alt="VS Code" style="width:50px;height:51px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp正在使用&nbsp<a href="https://zh.wikipedia.org/wiki/Visual_Studio_Code" class="extiw" title="wzh:Visual Studio Code">Visual Studio Code</a></div></div>
+
+### 小破站关注
+
+<div style="display:flex;align-items:center;background-color:#ffffff;padding-right:10px;border:1px solid #808080;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#B8F9E8;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Suda_baka_%28Avatar%29.jpg" alt="Linux" style="width:53px;height:53px;border-radius:0px;"></div><div style="color:#83bdd3;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp喜欢看&nbsp<a href="https://zh.wikipedia.org/wiki/Android" class="extiw" title="苏打 baka 的小破站主页">苏达达</a>&nbsp的视频</div></div>
+
+<div style="display:flex;align-items:center;background-color:white;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#ffffff;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Nor_AcFun.png" alt="Chrome Logo" style="width:53px;height:53px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp喜欢看&nbsp<a href="https://zh.wikipedia.org/wiki/Google_Chrome" class="extiw" title="nor 叔小破站主页"><span>nor 叔</span></a>&nbsp的视频</div></div>
+
+### 其他
+
+<div style="display:flex;align-items:center;background-color:#FFECEC;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#FFDADA;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Missing_Texture_Block_JE2.png" alt="Chrome Logo" style="width:32px;height:32px;border-radius:0px;"></div><div style="color:red;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp在编辑时擅长丢档!<br>其实刚刚就丢了一次档😅</div></div>
+
+<div style="display:flex;align-items:center;background-color:red;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#007500;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Bookshelf_JE4_BE2.png" alt="Chrome Logo" style="width:32px;height:32px;border-radius:0px;"></div><div style="color:white;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp正在学校读书<br>此用户会有一段时间不在</div></div>
+
+<div style="display:flex;align-items:center;background-color:#EBEBEB;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:red;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Azalea_JE2.png" alt="Chrome Logo" style="width:32px;height:32px;border-radius:0px;"></div><div style="color:red;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp该用户正在学习高中知识</div></div>
+
+<div style="display:flex;align-items:center;background-color:white;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:#ffffff;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/MCEdu_Multiply_Symbol.png" alt="Chrome Logo" style="width:32px;height:32px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp讨厌数学！</div></div>
+
+<div style="display:flex;align-items:center;background-color:white;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:75px;font-family:TsangerJinKai05-6763-W05;"><div style="width:73px;height:73px;background-color:0200FF;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Diamond_JE2_BE2.png" alt="Chrome Logo" style="width:73px;height:73px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;"><div style="display:flex;align-items:center;background-color:white;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:65px;font-family:TsangerJinKai05-6763-W05;"><div style="width:63px;height:63px;background-color:0200FF;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Diamond_JE2_BE2.png" alt="Chrome Logo" style="width:63px;height:63px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;"><div style="display:flex;align-items:center;background-color:white;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:0200FF;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Diamond_JE2_BE2.png" alt="Chrome Logo" style="width:53px;height:53px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;"><div style="display:flex;align-items:center;background-color:white;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:45px;font-family:TsangerJinKai05-6763-W05;"><div style="width:43px;height:43px;background-color:0200FF;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Diamond_JE2_BE2.png" alt="Chrome Logo" style="width:32px;height:32px;border-radius:0px;"></div><div style="color:green;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp喜欢往用户框里塞用户框</div></div></div></div></div></div></div></div>
+
+## 豪丸の🀀🀂
+
+<iframe src="/public/dagou-tap/index.html" title="大狗 Tap 互动壁纸" width="100%" height="640" style="border:none;border-radius:16px;background:#fff2dc;" allow="autoplay" loading="lazy"></iframe>
+
+**[全屏打开](/public/dagou-tap/index.html)**
+
+-----
+
+> 感谢你的来访！希望在这里能找到对你有用的内容！
+
+-----
+
+# 上游 README
 
 <img src="./docs/images/1131.png" width = "350" height = "500" alt="Firefly" align=right />
 
 <div align="center">
 
-# 流萤 / Firefly 
+## 流萤 / Firefly 
 > 一款清新美观的 Astro 静态博客主题模板
 > 
 > ![Node.js >= 22](https://img.shields.io/badge/node.js-%3E%3D22-brightgreen) 
@@ -24,7 +125,6 @@
 [![爱发电打赏](https://img.shields.io/badge/爱发电-打赏作者-ff69b4.svg)](https://ifdian.net/a/cuteleaf)
 
 </div>
-
 
 ---
 📖 README：
@@ -70,9 +170,9 @@
 >
 >Firefly 支持 i18n 多语言 UI，但除了简体中文，其他语言均为 AI 翻译转换，如有错误，欢迎提交 [Pull Request](https://github.com/CuteLeaf/Firefly/pulls) 修正。
 
-## ✨ 功能特性
+### ✨ 功能特性
 
-### 核心功能
+#### 核心功能
 
 - [x] **Astro + Tailwind CSS** - 基于现代技术栈的超快静态站点生成
 - [x] **流畅动画** - Swup 页面过渡动画，提供丝滑的浏览体验
@@ -80,7 +180,7 @@
 - [x] **多语言支持** - i18n 国际化，UI 支持简体中文、繁体中文、英文、日文、俄语、韩文
 - [x] **全文搜索** - 基于 Pagefind 的客户端搜索，支持文章内容索引
 
-### 个性化
+#### 个性化
 - [x] **动态侧边栏** - 支持配置单侧边栏、双侧边栏
 - [x] **文章布局** - 支持配置(单列)列表、网格(多列/瀑布流)布局
 - [x] **字体管理** - 支持自定义字体，丰富的字体选择器
@@ -92,203 +192,30 @@
 
 如果你有好用的功能和优化，请提交 [Pull Request](https://github.com/CuteLeaf/Firefly/pulls)
 
-## 🚀 快速开始
-
-### 环境要求
-
-- Node.js ≥ 22
-- pnpm ≥ 11
-
-### 本地开发部署
-
-1. **克隆仓库：**
-   ```bash
-   git clone https://github.com/Cuteleaf/Firefly.git
-   cd Firefly
-   ```
-   
-   **先 [Fork](https://github.com/CuteLeaf/Firefly/fork) 到自己仓库再克隆（推荐），记得先点 Star 再 Fork 哦！**
-
-   ```bash
-   git clone https://github.com/you-github-name/Firefly.git
-   cd Firefly
-   ```
-3. **安装依赖：**
-   ```bash
-   # 如果没有安装 pnpm，先安装
-   npm install -g pnpm
-   
-   # 安装项目依赖
-   pnpm install
-   ```
-
-4. **配置博客：**
-   - 编辑 `src/config/` 目录下的配置文件自定义博客设置
-
-5. **启动开发服务器：**
-   ```bash
-   pnpm dev
-   ```
-   博客将在 `http://localhost:4321` 可用
-
-### 平台托管部署
-- **参考[官方指南](https://docs.astro.build/zh-cn/guides/deploy/)将博客部署至 Vercel, Netlify, Cloudflare Pages, EdgeOne Pages 等。**
-- **Vercel**、**Netlify** 等主流平台自动部署，会根据环境自动选择适配器。
-
-   框架预设： `Astro`
-
-   根目录： `./`
-
-   输出目录： `dist`
-
-   构建命令： `pnpm run build`
-
-   安装命令： `pnpm install`
-
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/CuteLeaf/Firefly&project-name=Firefly&repository-name=Firefly)
-   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/CuteLeaf/Firefly)
-
-## 📖 配置说明
-
-> 📚 **详细配置文档**: 查看 [Firefly 使用文档](https://docs-firefly.cuteleaf.cn/) 获取完整的配置指南
-
-### 设置网站语言
-
-要设置博客的默认语言，请编辑 `src/config/siteConfig.ts` 文件：
-
-```typescript
-// 定义站点语言
-const SITE_LANG = "zh_CN";
-```
-
-**支持的语言代码：**
-- `zh_CN` - 简体中文
-- `zh_TW` - 繁体中文
-- `en` - 英文
-- `ja` - 日文
-- `ru` - 俄文
-- `ko` - 韩文
-
-### 配置文件结构
-
-```
-src/
-├── config/
-│   ├── index.ts                  # 配置索引文件
-│   ├── siteConfig.ts             # 站点基础配置
-│   ├── analyticsConfig.ts        # 统计分析配置
-│   ├── announcementConfig.ts     # 公告配置
-│   ├── backgroundWallpaper.ts    # 背景壁纸配置
-│   ├── commentConfig.ts          # 评论系统配置
-│   ├── coverImageConfig.ts       # 封面图配置
-│   ├── displaySettingsConfig.ts  # 设置面板配置
-│   ├── dynamicConfig.ts          # 动态页面配置
-│   ├── effectsConfig.ts          # 动画特效配置（樱花等）
-│   ├── expressiveCodeConfig.ts   # 代码高亮配置
-│   ├── fontConfig.ts             # 字体配置
-│   ├── FooterConfig.html           # 页脚配置
-│   ├── friendsConfig.ts          # 友链配置
-│   ├── galleryConfig.ts          # 相册配置
-│   ├── licenseConfig.ts          # 许可证配置
-│   ├── musicConfig.ts            # 音乐播放器配置
-│   ├── navBarConfig.ts           # 导航栏配置
-│   ├── pioConfig.ts              # 看板娘配置
-│   ├── mermaidConfig.ts          # Mermaid 图表配置
-│   ├── plantumlConfig.ts         # PlantUML 图表配置
-│   ├── profileConfig.ts          # 用户资料配置
-│   ├── sidebarConfig.ts          # 侧边栏布局配置
-│   └── sponsorConfig.ts          # 打赏配置
-```
-
-## ⚙️ 文章 Frontmatter
-
-```yaml
----
-title: My First Blog Post
-published: 2023-09-09
-description: This is the first post of my new Astro blog.
-image: ./cover.jpg  # 或使用 "api" 来启用随机封面图
-tags: [Foo, Bar]
-category: Front-end
-draft: false
-lang: zh-CN      # 仅当文章语言与 `siteConfig.ts` 中的网站语言不同时需要设置
-pinned: false    # 置顶
-comment: true    # 是否允许评论
----
-```
-
-## 动态
-
-动态文件保存在 `src/content/dynamic/` 中，一个 Markdown 文件对应一条动态。可以使用快捷命令创建：
-
-```bash
-pnpm new-d 今天心情不错，出去吃了一顿火锅
-```
-
-`pnpm new-dynamic <content>` 也可以使用，和 `new-d` 完全等价。
-
-```yaml
----
-published: 2026-07-15 16:15:29
-pinned: true  # 置顶
-location: China # 位置
----
-
-动态内容可以使用 Markdown 语法。
-```
-
-也支持对接 [Memos](https://www.usememos.com/) 作为数据源，在 `src/config/dynamicConfig.ts` 中配置 `memos` 选项即可实时获取 Memos 动态，支持置顶同步和图片附件展示。详见[动态文档](https://docs-firefly.cuteleaf.cn/zh/guide/dynamic.html)。
-
-## 🧩 Markdown 扩展语法
-
-除了 Astro 默认支持的 [GitHub Flavored Markdown](https://github.github.com/gfm/) 之外，还包含了一些额外的 Markdown 功能：
-
-- 提醒块（Admonitions） - 支持 GitHub, Obsidian, VitePress, Docusaurus 四种风格主题配置 ([预览和用法](https://firefly.cuteleaf.cn/posts/markdown-extended/))
-- GitHub 仓库卡片 ([预览和用法](https://firefly.cuteleaf.cn/posts/markdown-extended/))
-- 基于 Expressive Code 的增强代码块 ([预览](http://firefly.cuteleaf.cn/posts/code-examples/) / [文档](https://expressive-code.com/))
-
-## 🧞 指令
-
-下列指令均需要在项目根目录执行：
-
-| Command                    | Action                                 |
-| :------------------------- | :------------------------------------- |
-| `pnpm install`             | 安装依赖                               |
-| `pnpm dev`                 | 在 `localhost:4321` 启动本地开发服务器 |
-| `pnpm build`               | 构建网站至 `./dist/`                   |
-| `pnpm preview`             | 本地预览已构建的网站                   |
-| `pnpm check`               | 检查代码中的错误                       |
-| `pnpm format`              | 使用 Biome 格式化您的代码              |
-| `pnpm new-post <filename>` | 创建新文章                             |
-| `pnpm new-d <content>`     | 创建一条动态                           |
-| `pnpm new-dynamic <content>` | 创建一条动态（完整命令）              |
-| `pnpm astro ...`           | 执行 `astro add`, `astro check` 等指令 |
-| `pnpm astro --help`        | 显示 Astro CLI 帮助                    |
-
-## 🙏 致谢
+### 🙏 致谢
 
 非常感谢 [saicaca](https://github.com/saicaca) 开发的 [fuwari](https://github.com/saicaca/fuwari) 模板，Firefly 就是基于这个模板二次开发
 
 流萤部分相关图片素材版权归游戏 [《崩坏：星穹铁道》](https://sr.mihoyo.com/) 开发商 [米哈游](https://www.mihoyo.com/) 所有
 
-### 技术栈
+#### 技术栈
 
 - [Astro](https://astro.build) 
 - [Tailwind CSS](https://tailwindcss.com) 
 - [Iconify](https://iconify.design)
 
-### 灵感项目
+#### 灵感项目
 
 - [fuwari](https://github.com/saicaca/fuwari)
 - [hexo-theme-shoka](https://github.com/amehime/hexo-theme-shoka)
 - [astro-koharu](https://github.com/cosZone/astro-koharu)
 - [Mizuki](https://github.com/matsuzaka-yuki/Mizuki)
 
-### 其他参考
+#### 其他参考
 - 博主`霞葉`的 [Bangumi 收藏](https://kasuha.com/posts/fuwari-enhance-ep2/) 页面组件
 - 哔哩哔哩up主 `公公的日常` 的Q版 [流萤看板娘 Spine 切片数据](https://www.bilibili.com/video/BV1fuVzzdE5y) 
 
-## 📝 许可协议
+### 📝 许可协议
 
 本项目遵循 [MIT license](https://mit-license.org/) 开源协议，详细查看 [LICENSE](./LICENSE) 文件
 
@@ -300,7 +227,7 @@ location: China # 位置
 
 根据 MIT 开源协议，你可以自由使用、修改、分发代码，但需保留上述版权声明。
 
-## 🍀 贡献者
+### 🍀 贡献者
 
 感谢以下贡献者对本项目做出的贡献，如有问题或建议，请提交 [Issue](https://github.com/CuteLeaf/Firefly/issues) 或 [Pull Request](https://github.com/CuteLeaf/Firefly/pulls)。
 
@@ -314,7 +241,7 @@ location: China # 位置
 >  <img src="https://contrib.rocks/image?repo=saicaca/fuwari" />
 ></a>
 
-## ⭐ Star History
+### ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CuteLeaf/Firefly&type=Date)](https://star-history.com/#CuteLeaf/Firefly&Date)
 
