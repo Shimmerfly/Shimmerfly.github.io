@@ -48,3 +48,6 @@ package/
 .claude
 .mimocode
 .codewhale/
+
+AGENT.md
+CLAUDE.md
