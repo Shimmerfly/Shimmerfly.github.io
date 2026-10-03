@@ -1,11 +1,11 @@
-### 🚀 快速开始
+# 🚀 快速开始
 
-#### 环境要求
+## 环境要求
 
 - Node.js ≥ 22
 - pnpm ≥ 11
 
-#### 本地开发部署
+## 本地开发部署
 
 1. **克隆仓库：**
    ```bash
@@ -37,7 +37,7 @@
    ```
    博客将在 `http://localhost:4321` 可用
 
-#### 平台托管部署
+## 平台托管部署
 - **参考[官方指南](https://docs.astro.build/zh-cn/guides/deploy/)将博客部署至 Vercel, Netlify, Cloudflare Pages, EdgeOne Pages 等。**
 - **Vercel**、**Netlify** 等主流平台自动部署，会根据环境自动选择适配器。
 
@@ -54,11 +54,11 @@
    [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/CuteLeaf/Firefly&project-name=Firefly&repository-name=Firefly)
    [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/CuteLeaf/Firefly)
 
-### 📖 配置说明
+# 📖 配置说明
 
 > 📚 **详细配置文档**: 查看 [Firefly 使用文档](https://docs-firefly.cuteleaf.cn/) 获取完整的配置指南
 
-#### 设置网站语言
+## 设置网站语言
 
 要设置博客的默认语言，请编辑 `src/config/siteConfig.ts` 文件：
 
@@ -75,7 +75,7 @@ const SITE_LANG = "zh_CN";
 - `ru` - 俄文
 - `ko` - 韩文
 
-#### 配置文件结构
+## 配置文件结构
 
 ```
 src/
@@ -106,7 +106,7 @@ src/
 │   └── sponsorConfig.ts          # 打赏配置
 ```
 
-### ⚙️ 文章 Frontmatter
+# ⚙️ 文章 Frontmatter
 
 ```yaml
 ---
@@ -123,7 +123,7 @@ comment: true    # 是否允许评论
 ---
 ```
 
-### 动态
+# 动态
 
 动态文件保存在 `src/content/dynamic/` 中，一个 Markdown 文件对应一条动态。可以使用快捷命令创建：
 
@@ -145,7 +145,7 @@ location: China # 位置
 
 也支持对接 [Memos](https://www.usememos.com/) 作为数据源，在 `src/config/dynamicConfig.ts` 中配置 `memos` 选项即可实时获取 Memos 动态，支持置顶同步和图片附件展示。详见[动态文档](https://docs-firefly.cuteleaf.cn/zh/guide/dynamic.html)。
 
-#### 🧞 指令
+## 🧞 指令
 
 下列指令均需要在项目根目录执行：
 
