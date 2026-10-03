@@ -1,12 +1,13 @@
 ---
 title: "AccessHub"
 slug: AccessHub
-published: 2026-10-01
+published: 2026-10-02
 draft: false
 description: "Android Accessible Manager"
 status: "published"
 image: "https://raw.githubusercontent.com/Shimmerfly/AccessHub/refs/heads/AccessHub/assets/icon.png"
 tags:
+  - Apps
   - Android Apps
 link:
   - label: "GitHub"
