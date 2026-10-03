@@ -1,7 +1,7 @@
 ---
 title: 【全网首发】在 macOS 上用 UTM 跑原生 arm64/x86_64 Android
 published: 2026-09-05
-updated: 2026-09-13
+updated: 2026-10-03
 pinned: true
 description: 在 macOS 上用 UTM 跑原生 arm64/x86_64 Android
 tags: [教程,Linux,Android]
@@ -9,20 +9,26 @@ category: 教程
 draft: false
 image: About-My-XP.assets/%E7%BA%B3%E8%A5%BF%E5%A6%B2%C2%B7%E4%BB%B0%E6%9C%88.png
 slug: Lineage-on-UTM
-author: 𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫
+author: 𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫 & Tedangi
 licenseName: CC BY-NC-SA 4.0
 ---
 
 # 准备工作
 
-1. 一台 Mac
-2. 一个终端（macOS 自带即可）
-3. `android-platform-tools` 包（建议用 `brew install android-platform-tools --cask` 装)
-4. [UTM 虚拟机 `UTM.dmg`](https://github.com/utmapp/UTM/releases/latest/download/UTM.dmg)
-5. [主虚拟机文件 `UTM-VM-lineage-**.*-yyyymmdd-jqssun-virtio_arm64only.zip`*(仅 arm64 架构 - Apple Sillicon 用户)*/`UTM-VM-lineage-**.*-yyyymmdd-jqssun-virtio_*86_64.zip`*(仅 x86_64 架构 - Intel Chip 用户)*](https://github.com/jqssun/android-lineage-qemu/releases/latest)
-6. [*[可选]* GApps Add-on `MindTheGapps-**.*.*-arm64-yyyymmdd_******.zip`](https://github.com/MindTheGapps/16.0.0-arm64/releases/latest)
-7. [*[可选]* `recovery_arm64only-userdebug.img`*(仅 arm64 架构 - Apple Sillicon 用户)*](https://github.com/jqssun/android-lineage-qemu/releases/latest/download/recovery_arm64only-userdebug.img)/[*[可选]* `recovery_x86_64-userdebug.img`*(仅 x86_64 架构 - Intel Chip 用户)*](https://github.com/jqssun/android-lineage-qemu/releases/latest/download/recovery_x86_64-userdebug.img) （可刷入未经验证的刷机包（用于刷入 GApps） 的 Recovery)
-8. [*[可选]* `boot_arm64only.img`*(仅 arm64 架构 - Apple Sillicon 用户)*](https://github.com/jqssun/android-lineage-qemu/releases/latest/download/boot_arm64only.img)/[*[可选]* `boot_x86_64.img`*(仅 x86_64 架构 - Intel Chip 用户)*](https://github.com/jqssun/android-lineage-qemu/releases/latest/download/boot_x86_64.img)（Root 用）
+> 本教程用于在 macOS 上通过 UTM 运行原生 arm64/x86_64 Android。
+
+## 下载所需文件
+
+| 所需文件 / 项目 | 说明 | 获取 |
+|---|---|---|
+| **Mac 电脑** | 一台不是很老的 Mac | [戳这里获取一台任意 Mac](https://www.apple.com.cn/mac) |
+| **终端** | macOS 自带即可 | - |
+| **`android-platform-tools`** | 建议使用 `brew install android-platform-tools --cask` 安装 | [Google Developers 链接](https://developer.android.com/tools/releases/platform-tools?hl=zh-cn#downloads) |
+| **`UTM.dmg`** | UTM 虚拟机 | [GitHub 链接(arm64 版本 · Apple Sillicon & x86_64 版本 · Intel Chip](https://github.com/utmapp/UTM/releases/latest) |
+| **`UTM-VM-lineage-**.*-yyyymmdd-jqssun-virtio_arm64only.zip`** | 主虚拟机文件 | [GitHub 链接(arm64 版本 · Apple Sillicon & x86_64 版本 · Intel Chip)](https://github.com/jqssun/android-lineage-qemu/releases/latest) |
+| **`MindTheGapps-**.*.*-arm64-yyyymmdd_******.zip`** | *可选* · GApps Add-on| [GitHub 链接(仅 arm64 · Apple Silicon)](https://github.com/MindTheGapps/16.0.0-arm64/releases/latest) |
+| **`recovery_arm64only-userdebug.img`** | *可选* · 用于刷入未经验证的刷机包（用于刷入 GApps）的 Recovery · arm64 · Apple Silicon | [GitHub 链接(arm64 版本 · Apple Sillicon & x86_64 版本 · Intel Chip](https://github.com/jqssun/android-lineage-qemu/releases/latest) |
+| **`boot_arm64only.img`** | *可选* · Root 用 | [GitHub 链接(arm64 版本 · Apple Sillicon)](https://github.com/jqssun/android-lineage-qemu) [GitHub 链接(x86_64 版本 · Intel Chip)](https://github.com/jqssun/android-lineage-qemu/releases/latest) |
 
 > [!CAUTION]
 >
@@ -30,7 +36,11 @@ licenseName: CC BY-NC-SA 4.0
 >
 > `Recovery` 和 `boot.img(Kernel)` **有架构区分 刷之前务必仔细核对** 否则会出事
 
-4. [*[可选]* KernelSU（Root 管理器） `KernelSU_v*.*.*_*****-release.apk`](https://github.com/tiann/KernelSU/releases/latest)
+> [!TIP]
+> 
+> 请尽可能下载对应自己电脑架构的虚拟机 虽然 QEMU 支持通过转译运行不对应电脑架构的虚拟机 但是需要转译 性能会差许多
+
+---
 
 # 设置虚拟机
 
@@ -38,6 +48,8 @@ licenseName: CC BY-NC-SA 4.0
 2. LineageOS 虚拟机设置 - Network - Network Mode - 选择 Shared Nework
 
 ![网络配置](Lineage-on-UTM.assets/%E7%BD%91%E7%BB%9C%E9%85%8D%E7%BD%AE.png)
+
+### 调整虚拟机存储
 
 3. 虚拟机默认的 `16GiB` 内部存储肯定不够用 所以在第一次开机前建议更改虚拟机内部存储大小 不然后期想要调整需要恢复出厂设置
 > [!CAUTION]
@@ -47,9 +59,12 @@ licenseName: CC BY-NC-SA 4.0
 > 另一个 `vda-2.qcow2` 是 `system` 分区 **随意调整此分区大小可能会导致不可预知的问题**
 >
 > > [!NOTE]
+> > 
 > > Android 16 最大支持 `16TiB` 的磁盘 再高会 bootloop 但是不建议分配 `16TiB` 会导致 QEMU 模拟不正确 有概率导致虚拟机卡死
 
 ![磁盘扩容](Lineage-on-UTM.assets/%E7%A3%81%E7%9B%98%E6%89%A9%E5%AE%B9.png)
+
+### 调整 CPU 与内存
 
 4. 接着来调整虚拟机内存大小和 CPU 核心数量
 
@@ -60,6 +75,8 @@ licenseName: CC BY-NC-SA 4.0
 > **`Force Multicore` 功能可选择性开启（就我感觉 开不开其实差不多）**
 
 ![CPU&Mem](Lineage-on-UTM.assets/CPU&Mem.png)
+
+### 配置 Bootloader
 
 5. 先别急着进系统 进入 `Bootloader` 以后先进入设置 进行一些设置 以方便联网调试和 root
 
@@ -133,6 +150,8 @@ licenseName: CC BY-NC-SA 4.0
 
 ![设置](Lineage-on-UTM.assets/%E8%AE%BE%E7%BD%AE.png)
 
+### 更改 userdata 分区大小
+
 6. 如果你调过 `userdata` 分区大小的话 退出到主界面 选择 `Recovery` 并且进入
 
    接下来选择 `Factory reset` - `Format data/factory reset`
@@ -173,8 +192,16 @@ licenseName: CC BY-NC-SA 4.0
 
 ![双清完成.png](Lineage-on-UTM.assets/%E5%8F%8C%E6%B8%85%E5%AE%8C%E6%88%90.png)
 
+### *[可选]* 安装 Google Apps
+
 7. *[可选]* 安装 Google Apps
 
+   >[!NOTE]
+   >
+   >不建议在此虚拟机上安装 GApps
+   > 一方面是麻烦 还有一方面是其次是经本人实测 装 GApps 可能会导致虚拟机经常性的莫名其妙卡死 十分不稳定
+   > spoiler[~~***谷歌神秘💩⛰️代码发力哩***~~]
+   
    > [!CAUTION]
    >
    > GApps 必须在第一次启动系统之前安装 否则会 `bootloop` 所以第一次启动系统前千万要斟酌一下 确保不会用到 GApps 再启动 不然后期再想装只能恢复出厂设置再安装
@@ -191,6 +218,8 @@ licenseName: CC BY-NC-SA 4.0
    > > ```
    > >
    > > 所以要刷入带 `userdebug` 标签的允许刷入未经签名的包的 `Recovery`
+
+#### 刷入带 userdebug 标签的 Recovery
 
 - 进入 `Recovery` 首页 - `Advanced` - `Enter fastboot` 进入 `fastbootd` 并记下上面的 `IPv4 address - 192.168.**.*`
 
@@ -221,6 +250,8 @@ licenseName: CC BY-NC-SA 4.0
   > ```
   >
   > 若 Rocovery 里报错这些也是正常的 还是因为没有初始化系统导致的
+
+#### 通过 ADB 侧载 GApps
 
 - 底下显示 `Now send the package you want to apply to the device with "adb sideload <filename>"...` 时打开终端
 
@@ -325,7 +356,13 @@ licenseName: CC BY-NC-SA 4.0
 
 ![重启系统](Lineage-on-UTM.assets/%E9%87%8D%E5%90%AF%E7%B3%BB%E7%BB%9F.png)
 
+---
+
 # *[可选]* Root
+
+> Root 部分使用 KernelSU，对应准备工作中的 `boot.img` 与 KernelSU Manager。
+
+### 进入系统并开启 ADB
 
 1. `bootloader` 里选择第一项 `LineageOS **.*` 进系统
 2. 第一次启动系统可能会比较慢 特别是你选择了装 GApps 的时候 具体时长与电脑性能有关
@@ -350,11 +387,11 @@ licenseName: CC BY-NC-SA 4.0
 
 ![允许 ADB 调试](Lineage-on-UTM.assets/%E5%85%81%E8%AE%B8%20ADB%20%E8%B0%83%E8%AF%95.png)
 
-4. 进入 `无线调试` 记下里面的 IP
+6. 进入 `无线调试` 记下里面的 IP
 
 ![adb IP](Lineage-on-UTM.assets/adb%20IP.png)
 
-5. 打开终端
+7. 打开终端
 
   ``` bash
    adb connect $HOST_IP    # 把 $HOST_IP 替换成 Recovery 里面给你的 IP
@@ -378,7 +415,9 @@ licenseName: CC BY-NC-SA 4.0
 
   - 显示如上则已连接上
 
-6. 安装 `KernelSU` Manager
+### 安装并配置 KernelSU
+
+8. 安装 `KernelSU` Manager
 
   ```bash
    adb -e install /path/to/KernelSU_v*.*.*-**-g******ab_*****-release.apk    # 把 /path/to/KernelSU_v*.*.*-**-g******ab_*****-release.apk 换成你下载的管理器路径
@@ -391,7 +430,7 @@ licenseName: CC BY-NC-SA 4.0
   Success
   ```
 
-7. 推送 `boot.img` 到虚拟机并修补
+9. 推送 `boot.img` 到虚拟机并修补
 
   ```bash
    adb -e push /path/to/boot_*.img /sdcard    # 把 /path/to/boot_*.img 换成你下载的 boot.img 路径
@@ -402,7 +441,7 @@ licenseName: CC BY-NC-SA 4.0
   /path/to/boot_*.img: 1 file pushed, 0 skipped. ** MB/s (46219264 bytes in 0.100s)
   ```
 
-8. 打开 `KernelSU` 管理器 - `选择文件并修补` - 选择 `boot.img` - *[可选]*`备份为原厂镜像`&`总是给 Shell 授予 Root 权限`&`启动时强制启用 ADB 调试` - `下一步` - `KMI` 选择见下
+10. 打开 `KernelSU` 管理器 - `选择文件并修补` - 选择 `boot.img` - *[可选]*`备份为原厂镜像`&`总是给 Shell 授予 Root 权限`&`启动时强制启用 ADB 调试` - `下一步` - `KMI` 选择见下
 
   > [!TIP]
   >
@@ -442,7 +481,9 @@ licenseName: CC BY-NC-SA 4.0
   - Done!
   ```
 
-9. 从虚拟机拉取修补好的 `boot.img` 并刷入
+### 刷入修补后的 boot.img
+
+11. 从虚拟机拉取修补好的 `boot.img` 并刷入
 - 终端输入 `adb -d pull /storage/emulated/0/Download/kernelsu_patched_yyyymmdd_*.img ./     # 把 /storage/emulated/0/Download/kernelsu_patched_yyyymmdd_*.img` 换成你刚刚记的目录
 
 - 重启虚拟机 - `LineageOS **.* Recovery` - `Advamced` - `Enter fastboot` 进入 `Fastbootd`
@@ -462,6 +503,8 @@ licenseName: CC BY-NC-SA 4.0
 如果你在开机日志里看到了 `KernelSU: *` 证明成功了
 
 ![大功告成！.png](Lineage-on-UTM.assets/%E5%A4%A7%E5%8A%9F%E5%91%8A%E6%88%90%EF%BC%81.png)
+
+---
 
 # Enjoy!
 
