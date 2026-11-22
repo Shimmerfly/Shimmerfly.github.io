@@ -8,6 +8,25 @@
 
 已单独成篇至[此处](/posts/About-JH-XP)
 
+## 𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫 の 玩具
+
+> [!CAUTION]
+> ©️ 版权由原创作者所有 本站只做搬运 
+
+<details>
+<summary><h3> 大狗大狗叫叫叫<h3></summary>
+<iframe src="/dagou-tap/index.html" title="大狗 Tap" width="100%" height="640" style="border:none;border-radius:16px;background:#fff2dc;" allow="autoplay" loading="lazy"></iframe>
+
+**[新标签页打开](/dagou-tap/index.html)**
+</details>
+
+<details>
+<summary><h3>🎶 world.execute (me) ;<h3></summary>
+<iframe src="/world-execute/index.html" title="world.execute (me) ; — the web player" width="100%" height="520" style="border:none;border-radius:16px;background:#000;" allow="autoplay; fullscreen" loading="lazy"></iframe>
+
+**[新标签页打开](/world-execute/index.html)**
+</details>
+
 ## UserBox · 用户框
 
 ### 国籍及语言
@@ -88,13 +107,6 @@
 
 <div style="display:flex;align-items:center;background-color:white;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:75px;font-family:TsangerJinKai05-6763-W05;"><div style="width:73px;height:73px;background-color:0200FF;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Diamond_JE2_BE2.png" alt="Chrome Logo" style="width:73px;height:73px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;"><div style="display:flex;align-items:center;background-color:white;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:65px;font-family:TsangerJinKai05-6763-W05;"><div style="width:63px;height:63px;background-color:0200FF;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Diamond_JE2_BE2.png" alt="Chrome Logo" style="width:63px;height:63px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;"><div style="display:flex;align-items:center;background-color:white;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:55px;font-family:TsangerJinKai05-6763-W05;"><div style="width:53px;height:53px;background-color:0200FF;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Diamond_JE2_BE2.png" alt="Chrome Logo" style="width:53px;height:53px;border-radius:0px;"></div><div style="color:black;font-size:14px;font-weight:bold;line-height:1.4;"><div style="display:flex;align-items:center;background-color:white;padding-right:10px;border:1px solid gray;box-shadow:0 4px 8px rgba(0,0,0,0.1);width:fit-content;height:45px;font-family:TsangerJinKai05-6763-W05;"><div style="width:43px;height:43px;background-color:0200FF;display:flex;align-items:center;justify-content:center;margin-right:14px;"><img src="https://zh.minecraft.wiki/images/Diamond_JE2_BE2.png" alt="Chrome Logo" style="width:32px;height:32px;border-radius:0px;"></div><div style="color:green;font-size:14px;font-weight:bold;line-height:1.4;">&nbsp<a href="/about/" class="extiw" title="𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫">𝘚𝘩𝘪𝘮𝘮𝘦𝘳𝘧𝘭𝘺 · 星沫</a>&nbsp喜欢往用户框里塞用户框</div></div></div></div></div></div></div></div>
 
-## 豪丸の🀀🀂
-
-<iframe src="/dagou-tap/index.html" title="大狗 Tap 互动壁纸" width="100%" height="640" style="border:none;border-radius:16px;background:#fff2dc;" allow="autoplay" loading="lazy"></iframe>
-
-**[全屏打开](/dagou-tap/index.html)**
-
 -----
 
 > 感谢你的来访！希望在这里能找到对你有用的内容！
-
